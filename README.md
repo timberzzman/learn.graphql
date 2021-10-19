@@ -2,6 +2,8 @@
 
 The purpose of this challenge is to learn GraphQL through the creation of an API. You HAVE TO use TypeScript.
 
+The rules of this challenge are [here](https://github.com/Gi-jutsu/learn.graphql).
+
 ### Features:
 
 - [X] Register
